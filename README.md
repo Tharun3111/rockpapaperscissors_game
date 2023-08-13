@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game using Teachable Machine Image Model
+# Rock Paper Scissors Game using Teachable Machine Image Model    
     
 
 
