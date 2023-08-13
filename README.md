@@ -3,7 +3,7 @@
 
 
 This repository contains a simple implementation of the Rock Paper Scissors game using the Teachable Machine Image Model with java programming language. The model is trained to recognize hand gestures for rock, paper, and scissors, allowing you to play the classic game against the computer using your webcam.
-
+   
 ## How to Play
 
 1. Click on the "Start" button to initialize the webcam and load the image model.
